@@ -1,0 +1,18 @@
+{
+  "name": "m_first_package",
+  "version": "0.0.1",
+  "description": "first_package of test",
+  "authors": [
+
+    {
+
+      "name": "Malan",
+
+      "email": "123456@qq.com"
+
+    }
+    ],
+  "dependencies": {
+    
+  }
+}
